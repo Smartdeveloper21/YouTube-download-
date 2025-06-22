@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Railway YouTube Downloader</title>
+</head>
+<body>
+  <h2>Download YouTube Video</h2>
+  <form method="POST">
+    <label>Paste URL:</label><br>
+    <input type="text" name="url" required size="60"><br><br>
+    <button type="submit">Download</button>
+  </form>
+</body>
+</html>
